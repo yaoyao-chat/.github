@@ -18,5 +18,6 @@
 | [Claude订阅教程：官网怎么开 Pro/Max/Ultra](https://github.com/yaoyao-chat/claude) | 想自己在官网订阅 Claude 的人 |
 | [Codex代充：四种卖法区别、付钱前 8 问](https://github.com/yaoyao-chat/codex-dc) | 准备找人代开 Codex 额度的人 |
 | [Grok代充流程：要准备什么、多久到账](https://github.com/yaoyao-chat/grok-dc) | 已决定开 Grok、想知道流程的人 |
+| [ChatGPT礼品卡：礼品卡充值GPT能不能用、怎么兑换](https://github.com/yaoyao-chat/lipinka) | 手里有礼品卡、想用它开 Plus 的人 |
 
 整理：瑶瑶ai训练师（作者自营代充商城，文中如实披露，非官方）。商城：kw.yaoyao.chat

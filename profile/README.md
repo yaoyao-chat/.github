@@ -14,5 +14,9 @@
 | [Claude代充哪家好：6 家 Pro/Max 价格、售后对比](https://github.com/yaoyao-chat/claude-hp) | 想开 Claude Pro / Max、比较代充平台的人 |
 | [Grok订阅：四档会员价格、SuperGrok 现在叫什么、怎么选](https://github.com/yaoyao-chat/grok) | 第一次了解 Grok 会员各档区别的人 |
 | [SuperGrok哪家好：Grok 四档 8 家价格、到账、售后对比](https://github.com/yaoyao-chat/grokbijia) | 准备开 Grok 会员、想比较几家平台的人 |
+| [Claude价格表：官方 Pro/Max/Ultra 多少钱](https://github.com/yaoyao-chat/claude-jg) | 想知道 Claude 各档官方价的人 |
+| [Claude订阅教程：官网怎么开 Pro/Max/Ultra](https://github.com/yaoyao-chat/claude) | 想自己在官网订阅 Claude 的人 |
+| [Codex代充：四种卖法区别、付钱前 8 问](https://github.com/yaoyao-chat/codex-dc) | 准备找人代开 Codex 额度的人 |
+| [Grok代充流程：要准备什么、多久到账](https://github.com/yaoyao-chat/grok-dc) | 已决定开 Grok、想知道流程的人 |
 
 整理：瑶瑶ai训练师（作者自营代充商城，文中如实披露，非官方）。商城：kw.yaoyao.chat
